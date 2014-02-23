@@ -1,9 +1,13 @@
 namespace BalhBlah
 {
-	public class NewClass
+
+
+	class SomeOtherCalss
 	{
-		NewClass()
+		public void Method()
 		{
+			int i = 50;
+			i++;
 		}
 	}
 }
